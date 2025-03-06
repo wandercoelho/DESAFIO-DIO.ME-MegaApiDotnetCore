@@ -3,7 +3,7 @@
 > Este projeto é parte do Desafio de Projeto do Bootcamp DIO.ME sobre "Documentação e Versionamento de Projetos com IAs". Baseado no projeto original [MegaApiDotnetCore](https://github.com/FelipeAguiarCode/MegaApiDotnetCore) desenvolvido por [Felipe Aguiar](https://github.com/FelipeAguiarCode).
 
 <div align="center">
-  <img src="MegaApiDotnetCore/_docs/assets/icon_megaman.png" alt="Mega Man Robot IA" width="150">
+  <img src="_docs/assets/icon_megaman.png" alt="Mega Man Robot IA" width="150">
 </div>
 
 <div align="center">
